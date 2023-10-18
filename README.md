@@ -1,5 +1,6 @@
 # RoSEGS
-% Run run_demo_pavia.m to Generate the denoising results of RoSEGS, please cite our paper when using these codes:
+%  Run run_demo_pavia.m to Generate the denoising results of RoSEGS, please cite our paper when using these codes:
+
 %
 %  [1] X. Fu, Y. Guo, M. Xu and S. Jia, "Hyperspectral Image Denoising via 
 %      Robust Subspace Estimation and Group Sparsity Constraint," in IEEE 
